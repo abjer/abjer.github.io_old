@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sune Lehmann | Andreas Bjerre-Nielsen&#39;s page</title>
+    <link>https://abjer.github.io/authors/sune-lehmann/</link>
+      <atom:link href="https://abjer.github.io/authors/sune-lehmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sune Lehmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Academic performance and behavioral patterns</title>
+      <link>https://abjer.github.io/publication/kassarnig-2018-academic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/publication/kassarnig-2018-academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Class attendance, peer similarity, and academic performance in a large field study</title>
+      <link>https://abjer.github.io/publication/kassarnig-2017-class/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/publication/kassarnig-2017-class/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

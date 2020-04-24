@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses | Andreas Bjerre-Nielsen&#39;s page</title>
+    <link>https://abjer.github.io/courses/</link>
+      <atom:link href="https://abjer.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright>
+    <image>
+      <url>https://abjer.github.io/img/icon-192.png</url>
+      <title>Courses</title>
+      <link>https://abjer.github.io/courses/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to Social Data Science</title>
+      <link>https://abjer.github.io/courses/sds_intro/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/courses/sds_intro/</guid>
+      <description>&lt;p&gt;This course is taught every summer in August.&lt;/p&gt;
+&lt;p&gt;Check out the  &lt;a href=&#34;https://abjer.github.io/sds2019&#34;&gt;course page&lt;/a&gt; for materials and syllabus. See formal course information and how to register &lt;a href=&#34;https://kurser.ku.dk/course/a%C3%98kk08216u&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social Data Science - Econometrics and Machine Learning</title>
+      <link>https://abjer.github.io/courses/sds_eml/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/courses/sds_eml/</guid>
+      <description>&lt;p&gt;We will build on the fundamentals on applying machine learning and combining it with econometric tools. We also present tools and methods for networks in social science. If you want to know more, check out the &lt;a href=&#34;https://kurser.ku.dk/course/A%C3%98KK08400U&#34;&gt;course decription&lt;/a&gt; and the &lt;a href=&#34;https://github.com/abjer/sds_eml_2020&#34;&gt;course site&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

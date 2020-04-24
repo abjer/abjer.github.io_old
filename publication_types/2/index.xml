@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Andreas Bjerre-Nielsen&#39;s page</title>
+    <link>https://abjer.github.io/publication_types/2/</link>
+      <atom:link href="https://abjer.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://abjer.github.io/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://abjer.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Assortative matching with network spillovers</title>
+      <link>https://abjer.github.io/publication/bjerre-2020-assortative/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/publication/bjerre-2020-assortative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic performance and behavioral patterns</title>
+      <link>https://abjer.github.io/publication/kassarnig-2018-academic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/publication/kassarnig-2018-academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Class attendance, peer similarity, and academic performance in a large field study</title>
+      <link>https://abjer.github.io/publication/kassarnig-2017-class/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/publication/kassarnig-2017-class/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

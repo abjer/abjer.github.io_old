@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Andreas Bjerre-Nielsen&#39;s page</title>
+    <link>https://abjer.github.io/authors/</link>
+      <atom:link href="https://abjer.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Andreas Bjerre-Nielsen</title>
+      <link>https://abjer.github.io/authors/andreas-bjerre-nielsen/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/andreas-bjerre-nielsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mikkel Høst Gandil</title>
+      <link>https://abjer.github.io/authors/mikkel-h%C3%B8st-gandil/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/mikkel-h%C3%B8st-gandil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asger Andersen</title>
+      <link>https://abjer.github.io/authors/asger-andersen/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/asger-andersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Dreyer Lassen</title>
+      <link>https://abjer.github.io/authors/david-dreyer-lassen/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/david-dreyer-lassen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kelton Ray Minor</title>
+      <link>https://abjer.github.io/authors/kelton-ray-minor/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/kelton-ray-minor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enys Mones</title>
+      <link>https://abjer.github.io/authors/enys-mones/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/enys-mones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piotr Sapiezynski</title>
+      <link>https://abjer.github.io/authors/piotr-sapiezynski/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/piotr-sapiezynski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sune Lehmann</title>
+      <link>https://abjer.github.io/authors/sune-lehmann/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/sune-lehmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valentin Kassarnig</title>
+      <link>https://abjer.github.io/authors/valentin-kassarnig/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/valentin-kassarnig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://abjer.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am an Assistant Professor in Economics and Social Data Science at University of Copenhagen. I am also the Head of Studies for MSc Social Data Science from 2019-2021.&lt;/p&gt;
+&lt;p&gt;My main research field is education but I also work partly in other fields. My research is based analysis using economic theory and econometrics as well as prediction tools from machine learning. My recent research include school choice, how social relations form and affect people, as well as determinants of academic success and human capital. One common theme across projects is to what extent can policy makers induce people to interact, either in terms of school choice or groups within their school.&lt;/p&gt;
+&lt;p&gt;A number of my research projects rely on data collected by the Copenhagen Networks Study, a large field study meausuring students&amp;rsquo; interactions as well as other behavioral traces measured through smartphones handed out. Other work is based on Danish registry data coupled with other data sources, such as school districts etc.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
