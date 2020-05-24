@@ -5,12 +5,36 @@
     <link>https://abjer.github.io/authors/</link>
       <atom:link href="https://abjer.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright><lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Andreas Bjerre-Nielsen</title>
       <link>https://abjer.github.io/authors/andreas-bjerre-nielsen/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       <guid>https://abjer.github.io/authors/andreas-bjerre-nielsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asger Andersen</title>
+      <link>https://abjer.github.io/authors/asger-andersen/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/asger-andersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Dreyer Lassen</title>
+      <link>https://abjer.github.io/authors/david-dreyer-lassen/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/david-dreyer-lassen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kelton Ray Minor</title>
+      <link>https://abjer.github.io/authors/kelton-ray-minor/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/kelton-ray-minor/</guid>
       <description></description>
     </item>
     
@@ -19,30 +43,6 @@
       <link>https://abjer.github.io/authors/mikkel-h%C3%B8st-gandil/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://abjer.github.io/authors/mikkel-h%C3%B8st-gandil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asger Andersen</title>
-      <link>https://abjer.github.io/authors/asger-andersen/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://abjer.github.io/authors/asger-andersen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Dreyer Lassen</title>
-      <link>https://abjer.github.io/authors/david-dreyer-lassen/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://abjer.github.io/authors/david-dreyer-lassen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kelton Ray Minor</title>
-      <link>https://abjer.github.io/authors/kelton-ray-minor/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://abjer.github.io/authors/kelton-ray-minor/</guid>
       <description></description>
     </item>
     
