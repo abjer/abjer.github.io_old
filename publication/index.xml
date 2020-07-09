@@ -5,12 +5,20 @@
     <link>https://abjer.github.io/publication/</link>
       <atom:link href="https://abjer.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright><lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://abjer.github.io/img/icon-192.png</url>
       <title>Research</title>
       <link>https://abjer.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Inferring transportation mode from smartphone sensors: Evaluating the potential of Wi-Fi and Bluetooth</title>
+      <link>https://abjer.github.io/publication/bjerre-2020-transport/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/publication/bjerre-2020-transport/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The negative effect of smartphone use on academic performance may be overestimated: evidence from a two-year panel study</title>

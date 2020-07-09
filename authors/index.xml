@@ -5,12 +5,44 @@
     <link>https://abjer.github.io/authors/</link>
       <atom:link href="https://abjer.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright><lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Andreas Bjerre-Nielsen</title>
       <link>https://abjer.github.io/authors/andreas-bjerre-nielsen/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://abjer.github.io/authors/andreas-bjerre-nielsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Dreyer Lassen</title>
+      <link>https://abjer.github.io/authors/david-dreyer-lassen/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/david-dreyer-lassen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kelton Minor</title>
+      <link>https://abjer.github.io/authors/kelton-minor/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/kelton-minor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piotr Sapieżyński</title>
+      <link>https://abjer.github.io/authors/piotr-sapiezynski/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/piotr-sapiezynski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sune Lehmann</title>
+      <link>https://abjer.github.io/authors/sune-lehmann/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/sune-lehmann/</guid>
       <description></description>
     </item>
     
@@ -19,14 +51,6 @@
       <link>https://abjer.github.io/authors/asger-andersen/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       <guid>https://abjer.github.io/authors/asger-andersen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Dreyer Lassen</title>
-      <link>https://abjer.github.io/authors/david-dreyer-lassen/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://abjer.github.io/authors/david-dreyer-lassen/</guid>
       <description></description>
     </item>
     
@@ -51,22 +75,6 @@
       <link>https://abjer.github.io/authors/enys-mones/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://abjer.github.io/authors/enys-mones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Piotr Sapiezynski</title>
-      <link>https://abjer.github.io/authors/piotr-sapiezynski/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://abjer.github.io/authors/piotr-sapiezynski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sune Lehmann</title>
-      <link>https://abjer.github.io/authors/sune-lehmann/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://abjer.github.io/authors/sune-lehmann/</guid>
       <description></description>
     </item>
     
