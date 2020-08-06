@@ -6,5 +6,11 @@
       <atom:link href="https://abjer.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Andreas Bjerre-Nielsen&#39;s page</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright>
+    <image>
+      <url>https://abjer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Andreas Bjerre-Nielsen&#39;s page</title>
+      <link>https://abjer.github.io/authors/admin/</link>
+    </image>
+    
   </channel>
 </rss>

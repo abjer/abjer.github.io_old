@@ -7,7 +7,7 @@
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://abjer.github.io/img/icon-192.png</url>
+      <url>https://abjer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://abjer.github.io/post/</link>
     </image>
@@ -17,7 +17,9 @@
       <link>https://abjer.github.io/post/sds_head_study/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://abjer.github.io/post/sds_head_study/</guid>
-      <description>&lt;p&gt;I will lead the academic development of the news study program in Social Data Science. The program combines state-of-the-art tools from data science with methods from social science. The focus is mainly on quantiative tools, e.g. statistics, machine learning but also introduces useful qualitative methods. Read more about the study and admissions procedure &lt;a href=&#34;https://studies.ku.dk/masters/social-data-science/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I will lead the academic development of the news study program in Social Data Science. The program combines state-of-the-art tools from data science with methods from social science. The focus is mainly on quantiative tools, e.g. statistics, machine learning but also introduces useful qualitative methods. Read more about the study and admissions procedure 
+&lt;a href=&#34;https://studies.ku.dk/masters/social-data-science/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+.&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +28,13 @@
       <link>https://abjer.github.io/post/friskoler2019/</link>
       <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://abjer.github.io/post/friskoler2019/</guid>
-      <description>&lt;p&gt;I have given interviews to &lt;a href=&#34;https://www.information.dk/indland/2019/04/hoej-andel-boern-danmark-gaar-paa-privatskole&#34;&gt;Information&lt;/a&gt;, &lt;a href=&#34;https://www.dr.dk/radio/p1/orientering/orientering-2019-04-15&#34;&gt;DR P1&lt;/a&gt; about the use of private schools in Denmark. I also talked with &lt;a href=&#34;https://www.dr.dk/nyheder/detektor/detektor-lukker-100-friskoler-hvis-s-kommer-til-magten-det-er-gaetteri&#34;&gt;DR Detektor&lt;/a&gt; about the financing of private schools and the consquences of changing the subidies for private schools.&lt;/p&gt;
+      <description>&lt;p&gt;I have given interviews to 
+&lt;a href=&#34;https://www.information.dk/indland/2019/04/hoej-andel-boern-danmark-gaar-paa-privatskole&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Information&lt;/a&gt;
+, 
+&lt;a href=&#34;https://www.dr.dk/radio/p1/orientering/orientering-2019-04-15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DR P1&lt;/a&gt;
+ about the use of private schools in Denmark. I also talked with 
+&lt;a href=&#34;https://www.dr.dk/nyheder/detektor/detektor-lukker-100-friskoler-hvis-s-kommer-til-magten-det-er-gaetteri&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DR Detektor&lt;/a&gt;
+ about the financing of private schools and the consquences of changing the subidies for private schools.&lt;/p&gt;
 </description>
     </item>
     
@@ -35,7 +43,9 @@
       <link>https://abjer.github.io/post/interview_information/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://abjer.github.io/post/interview_information/</guid>
-      <description>&lt;p&gt;I was interviewed by the Danish newspaper Information about the possibilities of implementing a new school admissions procedure in Denmark to improve the match quality, see more &lt;a href=&#34;https://www.information.dk/indland/2016/06/ideer-moderniserer-optaget-gymnasiet&#34;&gt;here&lt;/a&gt;. In the interview I argue why the current system is flawed due to its use of priority matching which has been shown to have some design flaws.&lt;/p&gt;
+      <description>&lt;p&gt;I was interviewed by the Danish newspaper Information about the possibilities of implementing a new school admissions procedure in Denmark to improve the match quality, see more 
+&lt;a href=&#34;https://www.information.dk/indland/2016/06/ideer-moderniserer-optaget-gymnasiet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+. In the interview I argue why the current system is flawed due to its use of priority matching which has been shown to have some design flaws.&lt;/p&gt;
 </description>
     </item>
     
