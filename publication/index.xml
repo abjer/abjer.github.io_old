@@ -5,12 +5,20 @@
     <link>https://abjer.github.io/publication/</link>
       <atom:link href="https://abjer.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright><lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://abjer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Research</title>
       <link>https://abjer.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Statistical inference and misperceptions in social networks</title>
+      <link>https://abjer.github.io/publication/bjerre-2020-statistical/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/publication/bjerre-2020-statistical/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Inferring transportation mode from smartphone sensors: Evaluating the potential of Wi-Fi and Bluetooth</title>
@@ -21,7 +29,7 @@
     </item>
     
     <item>
-      <title>The negative effect of smartphone use on academic performance may be overestimated: evidence from a two-year panel study</title>
+      <title>The Negative Effect of Smartphone Use on Academic Performance May Be Overestimated: Evidence From a 2-Year Panel Study </title>
       <link>https://abjer.github.io/publication/bjerre-2020-smartphone/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       <guid>https://abjer.github.io/publication/bjerre-2020-smartphone/</guid>
@@ -39,7 +47,7 @@
     <item>
       <title>Attendance Boundary Policies and the Limits to Combating School Segregation</title>
       <link>https://abjer.github.io/publication/bjerre-2020-school/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://abjer.github.io/publication/bjerre-2020-school/</guid>
       <description></description>
     </item>
