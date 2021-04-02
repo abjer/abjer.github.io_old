@@ -5,7 +5,7 @@
     <link>https://abjer.github.io/authors/</link>
       <atom:link href="https://abjer.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright><lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Andreas Bjerre-Nielsen</copyright><lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://abjer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -15,8 +15,56 @@
     <item>
       <title>Andreas Bjerre-Nielsen</title>
       <link>https://abjer.github.io/authors/andreas-bjerre-nielsen/</link>
-      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://abjer.github.io/authors/andreas-bjerre-nielsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Dreyer Lassen</title>
+      <link>https://abjer.github.io/authors/david-dreyer-lassen/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/david-dreyer-lassen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sune Lehmann</title>
+      <link>https://abjer.github.io/authors/sune-lehmann/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/sune-lehmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valentin Kassarnig</title>
+      <link>https://abjer.github.io/authors/valentin-kassarnig/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/valentin-kassarnig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kelton Minor</title>
+      <link>https://abjer.github.io/authors/kelton-minor/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/kelton-minor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nick Obradovich</title>
+      <link>https://abjer.github.io/authors/nick-obradovich/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/nick-obradovich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sigga Jonasdottir</title>
+      <link>https://abjer.github.io/authors/sigga-jonasdottir/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://abjer.github.io/authors/sigga-jonasdottir/</guid>
       <description></description>
     </item>
     
@@ -29,34 +77,10 @@
     </item>
     
     <item>
-      <title>David Dreyer Lassen</title>
-      <link>https://abjer.github.io/authors/david-dreyer-lassen/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://abjer.github.io/authors/david-dreyer-lassen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kelton Minor</title>
-      <link>https://abjer.github.io/authors/kelton-minor/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://abjer.github.io/authors/kelton-minor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Piotr Sapieżyński</title>
       <link>https://abjer.github.io/authors/piotr-sapiezynski/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://abjer.github.io/authors/piotr-sapiezynski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sune Lehmann</title>
-      <link>https://abjer.github.io/authors/sune-lehmann/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://abjer.github.io/authors/sune-lehmann/</guid>
       <description></description>
     </item>
     
@@ -93,20 +117,12 @@
     </item>
     
     <item>
-      <title>Valentin Kassarnig</title>
-      <link>https://abjer.github.io/authors/valentin-kassarnig/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://abjer.github.io/authors/valentin-kassarnig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://abjer.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://abjer.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am an Assistant Professor in Economics and Social Data Science at University of Copenhagen. I am the Head of Studies for MSc Social Data Science from 2019-2021.&lt;/p&gt;
-&lt;p&gt;The majority of my research focuses on education research, using methods from economics and data science. Some focus area within education is school choice, peer effects, use of digital technology, and prediction for intervention. Other research topics include using tools from econometrics and data science to investigate human behavior more broadly.&lt;/p&gt;
+      <description>&lt;p&gt;I am an Assistant Professor in Economics and Social Data Science at University of Copenhagen. The majority of my research focuses on education related behavior and policies, using methods from economics and data science. Some areas of within education is school choice, use of digital technology, prediction tools for intervention as well as peer effects/social interactions. Other research topics include using tools from econometrics and data science to investigate human behavior more broadly.&lt;/p&gt;
+&lt;p&gt;I serve as  Head of Studies for MSc Social Data Science from 2019-2021 and teach courses at the intersection of econometrics and data science.&lt;/p&gt;
 </description>
     </item>
     
